@@ -28,7 +28,7 @@ public class main extends javax.swing.JFrame {
         
         //Game pictures variables for the array.
         game_picture = new String[12];
-        game_picture[0] = "arrow-right.png";
+        game_picture[0] = "PacMan.png";
         game_picture[1] = "";
         game_picture[2] = "";
         game_picture[3] = "";
